@@ -1,0 +1,33 @@
+/* root */
+.btn .btn-primary {
+  color: #fff;
+  background: #e2c0bb;
+  border: 1px solid #e2c0bb !important;
+}
+.active-text {
+  color: #e2c0bb !important;
+  
+}
+/* end of root */
+
+/* navbar */
+.logo{
+  background: transparent;
+  width: 90px;
+  padding: 0px 10px;
+} 
+ .navbar ul li a {
+  color: rgb(88, 88, 88);
+  font-family: sans-serif;
+  transition: all 0.3s;
+  text-transform: capitalize;
+}
+.navbar ul li a:hover{
+  color: #e2c0bb !important;
+}
+/* hover master  */
+.hvr-underline-from-center:before{
+  background: #dbb7b1 !important;
+  height: 0.6px !important;
+}
+/* end of nav bar  */
